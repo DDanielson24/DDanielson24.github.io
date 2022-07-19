@@ -2,6 +2,10 @@
     width: 70%;
 }
 
+.Cabecera {
+    color: white;
+}
+
 #PPersonales {
     padding-left: 20%
 }
@@ -9,4 +13,8 @@
 #Inicio div div {
     padding-top: 1%;
     padding-bottom: 1%;
+}
+
+.Footer {
+    text-align: center;
 }
