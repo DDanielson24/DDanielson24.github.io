@@ -6,6 +6,15 @@
     color: white;
 }
 
+.CabeceraContacto {
+    color: white;
+    text-align: center;
+}
+
+.EnlacesContacto div {
+    text-align: center;
+}
+
 #PPersonales {
     padding-left: 20%
 }
