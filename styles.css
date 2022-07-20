@@ -4,6 +4,19 @@
     margin-left: 18%;
 }
 
+.TextoIntro {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.TextoIntro h5 {
+    font-size: 40px;
+}
+
+.TextoIntro p {
+    font-size: 18px;
+}
+
 .card {
     width: 70%;
 }
