@@ -15,8 +15,18 @@
     text-align: center;
 }
 
-#PPersonales {
-    padding-left: 20%
+.wrapper {
+    max-height: 225px;
+    display: flex;
+    overflow-x: auto;
+}
+
+.wrapper .item {
+    min-width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 #Inicio div div {
